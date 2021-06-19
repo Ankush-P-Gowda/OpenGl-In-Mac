@@ -25,4 +25,4 @@ Steps to execute OpenGl program in Mac using Xcode
 > #include <GL/glut.h>
 > #endif
 
-* Now test your program for sample use the code in this link => 
+* Now test your program for sample use the code in this link => https://github.com/Ankush-P-Gowda/OpenGl-In-Mac/blob/main/Sample%20Program%20for%20Radient%20Triangle%20(2).txt
